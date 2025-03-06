@@ -1,0 +1,25 @@
+{
+  "name": "avibot",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">An Advanced Discord Music Bot for YOU</h1>",
+  "main": "index.js",
+  "dependencies": {
+    "@distube/deezer": "^2.0.1",
+    "@distube/direct-link": "^1.0.1",
+    "@distube/soundcloud": "^2.0.4",
+    "@distube/spotify": "^2.0.2",
+    "@distube/youtube": "^1.0.4",
+    "@distube/yt-dlp": "^2.0.1",
+    "discord.js": "^14.18.0",
+    "distube": "^5.0.6",
+    "distube-apple-music": "^0.1.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.2.0",
+    "opusscript": "^0.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
