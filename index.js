@@ -80,4 +80,4 @@ console.log("TOKEN LOADED:", process.env.TOKEN ? "✅ Yes" : "❌ No");
 
 
 // Discord Client login
-client.login('MTE3MTM2NDI3NDE2NjMwODg2NA.GwLUxI.luTv6zRkp1VtHtq0z4BoukSwr5hzBydbFJzt9k');
+client.login('MTE3MTM2NDI3NDE2NjMwODg2NA.GhRds7.EvaJswchVJxv_8cXK1HReJNhHf8Axq1yyH2SSE');
