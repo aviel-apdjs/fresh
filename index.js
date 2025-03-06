@@ -76,5 +76,8 @@ process.on("uncaughtExceptionMonitor", (err, origin) => {
     console.log(err?.stack, origin);
 });
 
+console.log("TOKEN LOADED:", process.env.TOKEN ? "✅ Yes" : "❌ No");
+
+
 // Discord Client login
 client.login(process.env.TOKEN);
